@@ -1,0 +1,3751 @@
+Name,Role,Country,Profile_Link,Hourly_Rate,Total_Earned,Job_Success_Score,Badge,Bio,Company_Name,Company_Earn,Raw_HTML,Company_Link
+Mike N.,"Senior Full stack developer. Veteran Laravel, React, Angular and PHP",United States,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$50.00/hr,$100K+,100% Job Success,Top Rated Plus,"Lead senior developers of Sellerdashboard.ai, developer of Smartmember.co. I have over 6 years experience with Laravel, React and Angular. I am a full stack developer who have strong foundation in web and anything related to online. I am also a DevOps by night. Consider me if you need help with custom health web app, e-commerce web app and mobile app.",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~0144882b99a1de97d61110580755107926016"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~0144882b99a1de97d6"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Mike N."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1qJvoeH6AHGCTI1XFD-WRcNblCgDMTBl6Xl9qCBiZwNsPhAUU05RWxGSi5FZEAU1t""/>
+        <span class=""up-presence-indicator up-presence-indicator-online"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Mike N.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        Senior Full stack developer. Veteran Laravel, React, Angular and PHP
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        United States
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-0"" type=""button"">
+        <span class=""sr-only"">
+         Save - Mike N.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Mike N. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <div class=""mt-10"" data-v-2085f2de="""">
+    <div class=""d-flex align-items-center"" data-test=""pib-badge-popover"" data-v-2085f2de="""">
+     <span data-test=""up-c-tooltip"">
+      <span>
+       <div aria-describedby=""popper_1"" class=""up-popper-trigger"" role=""button"" tabindex=""0"">
+        <div class=""d-flex align-items-center"" data-test=""pib-badge"" id=""pib-badge-2"">
+         <div class=""up-badge up-badge-rounded-inverse pib-badge"">
+          <div class=""d-flex align-items-center pib-badge-typography"">
+           <div class=""up-icon sm"" data-test=""up-c-icon-v2"">
+            <svg aria-hidden=""true"" role=""img"" viewbox=""0.5 0.5 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+             <path d=""M12.063 4.679c.217-.002.416.03.527.235.105.195.025.375-.082.546-1.85 2.928-3.697 5.856-5.546 8.784-.112.18-.262.314-.479.232-.226-.086-.36-.262-.327-.525.106-.83.608-4.646.764-5.725.032-.226-.029-.279-.253-.277-1.227.01-2.454.002-3.678.008-.238 0-.455-.025-.58-.254-.127-.233.019-.409.143-.584L7.032.85c.073-.103.138-.213.252-.279.327-.196.689.033.689.449.006 1.1.012 2.2-.004 3.3-.004.28.068.372.357.369l3.737-.01"">
+             </path>
+            </svg>
+           </div>
+           <div>
+            Available now
+           </div>
+          </div>
+         </div>
+         <!-- -->
+        </div>
+       </div>
+      </span>
+      <span class=""popper up-tooltip"" data-test=""up-transition-intro"" id=""popper_1"" style=""display: none;"">
+       <div class=""size-md"">
+        <div class=""popper-wrapper"">
+         <div class=""popper-inner"">
+          <!-- -->
+          <div class=""popper-content"">
+           <div>
+            This freelancer is promoting they're open to more work.
+           </div>
+          </div>
+          <div class=""arrow"" x-arrow="""">
+          </div>
+         </div>
+        </div>
+       </div>
+      </span>
+     </span>
+    </div>
+   </div>
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $50.00
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-2 grid-col-sm-2 justify-self-start nowrap"" data-qa=""earnings"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_2"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <p class=""mb-0"" data-v-e40d7fb8="""">
+          <strong data-v-e40d7fb8="""">
+           <span data-test=""earned-amount-formatted"" data-v-e40d7fb8="""">
+            $100K+
+           </span>
+          </strong>
+          earned
+         </p>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_2"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <button class=""up-btn-reset up-popper-close"" data-cy=""popper-close-btn"" type=""button"">
+            <span class=""sr-only"">
+             Close the tooltip
+            </span>
+            <div class=""up-icon"" data-test=""up-c-icon-v2"">
+             <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+              <polygon fill-rule=""evenodd"" points=""12.524 0 7 5.524 1.476 0 0 1.476 5.524 7 0 12.524 1.476 14 7 8.476 12.524 14 14 12.524 8.476 7 14 1.476"">
+              </polygon>
+             </svg>
+            </div>
+           </button>
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              46 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              51 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              2845 hours worked
+             </p>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_3"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 100%;"">
+           <span class=""up-job-success-text"">
+            100% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_3"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_4"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_4"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-3"">
+      Lead senior developers of Sellerdashboard.ai, developer of Smartmember.co. I have over 6 years experience with Laravel, React and Angular. I am a full stack developer who have strong foundation in web and anything related to online. I am also a DevOps by night. Consider me if you need help with custom health web app, e-commerce web app and mobile app.
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <div class=""mt-10"" data-test=""attribute-skills"" data-v-2085f2de="""" data-v-3a84ca38="""">
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Web Servers
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style=""display: none;"" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Apache HTTP Server
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       NGINX
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Full Stack Development Deliverables
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       WordPress Plugin
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Custom PHP
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Database Development
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Application
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Google Chrome Extension
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Ecommerce Website
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       API Integration
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Development
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Platform Plugin
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <button class=""up-btn-link pb-10"" data-v-3a84ca38="""">
+   3 more
+  </button>
+ </div>
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Mike N. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Daniyal A.,Expert WordPress Developer,Pakistan,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$45.00/hr,,96% Job Success,Top Rated Plus,"Client Satisfaction is my actual Goal. I am working as a WordPress developer for the last 7 years. I am proficient in Web Development, Over the past few years, I’ve built a huge exposure while contributing to open source projects and also as an author of various premium themes. I am also working with Elegant Themes (more specifically on Divi Theme) from last one year now.
+
+I have various open-source plugins at WordPress.org and also have premium themes, please take a look at the portfolio below.
+
+In the daytime, I usually visit WordPress support forum and try to resolve different issues.
+Nothing is impossible when it comes to WordPress, I always deliver the best quality results. No compromise on quality and on deadlines. People usually call me a WordPress Guru.
+
+I’m a self-starter and my goal is to provide an upright work that deems to satisfy my clients.",Photon Technologies,$100k+earned,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~0176737c7989266a8e1110580755107926016"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~0176737c7989266a8e"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Daniyal A."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1xh8ROuwKVPo4CQPEMpqfQItDyFaE6REyYw9hNp32YD5YnF-zf7P4mFJp0UUVnPoz""/>
+        <span class=""up-presence-indicator up-presence-indicator-online"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Daniyal A.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        Expert WordPress Developer
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        Pakistan
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-1"" type=""button"">
+        <span class=""sr-only"">
+         Save - Daniyal A.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Daniyal A. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <!-- -->
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $45.00
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <!-- -->
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_5"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 92%;"">
+           <span class=""up-job-success-text"">
+            96% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_5"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_6"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_6"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-4"">
+      Client Satisfaction is my actual Goal. I am working as a WordPress developer for the last 7 years. I am proficient in Web Development, Over the past few years, I’ve built a huge exposure while contributing to open source projects and also as an author of various premium themes. I am also working with Elegant Themes (more specifically on Divi Theme) from last one year now.
+
+I have various open-source plugins at WordPress.org and also have premium themes, please take a look at the portfolio below.
+
+In the daytime, I usually visit WordPress support forum and try to resolve different issues.
+Nothing is impossible when it comes to WordPress, I always deliver the best quality results. No compromise on quality and on deadlines. People usually call me a WordPress Guru.
+
+I’m a self-starter and my goal is to provide an upright work that deems to satisfy my clients.
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <div class=""mt-10"" data-test=""attribute-skills"" data-v-2085f2de="""" data-v-3a84ca38="""">
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Web Servers
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style=""display: none;"" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Apache HTTP Server
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       NGINX
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Full Stack Development Deliverables
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       WordPress Plugin
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Custom PHP
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Redesign
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Optimization
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Ecommerce Website
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Responsive Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       API Integration
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Application
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Development
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <button class=""up-btn-link pb-10"" data-v-3a84ca38="""">
+   4 more
+  </button>
+ </div>
+ <div class=""cfe-ui-freelancer-tile-agency-box-legacy mt-5 mt-10 agency-box-legacy--link"" data-qa-agency-ciphertext=""~01ae96c12efdf935cc"" data-test=""agency-box"" data-v-2085f2de="""">
+  <div class=""d-flex agency-box-logo-name"">
+   <img alt=""Photon Technologies"" class=""up-avatar up-avatar-company flex-shrink-0 up-avatar-30"" data-test=""company-logo"" src=""https://upwork-usw2-prod-assets-static.s3.us-west-2.amazonaws.com/org-logo/425294993134260224""/>
+   <div class=""ml-10 agency-box-name"" data-test=""agency-box-name"">
+    <div>
+     Associated with
+    </div>
+    <div class=""d-flex align-items-center up-btn-link"">
+     <div class=""agency-name"">
+      Photon Technologies
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+  <div class=""ml-10 agency-box-stats"" data-test=""agency-box-stats"">
+   <span>
+    <p class=""mb-0"">
+     <strong>
+      $100k+
+     </strong>
+    </p>
+    <p class=""mb-0"">
+     earned
+    </p>
+   </span>
+  </div>
+ </div>
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Daniyal A. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Huynh Kim H.,"Expert Web3, Ethereum, Dapps Development",Vietnam,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$37.50/hr,,100% Job Success,Top Rated Plus,"- More than 22 year experiences in software development industry. Involved in many client software development projects applied both technology and management skills. Gained great deals of knowledge, tactics and skills to the problem solving, management solving and technical solving. Find below for the main technologies and knowledge areas breakdown with more details: 
+
+- Advanced experiences in dealing with state of art technology platforms and programming languages: Visual Studio.NET, Visual Studio Code, Node.js, VB.NET, C#, C/C++, JSON/HTTP, PHP, QuickFix, Java, Lua, Python, ThinkScript, Pine Script, PowerLanguage(Multichart), EasyLanguage / TradeAPI/ Optimizer API (Tradestation), Bitfinex API, Solidity, ... 
+
+- Blockchain application and Web3 technology developments: Ethereum, Solana blockchain ecosystems and networks. Relevant programming languages and libraries for the Web3 and smart contract developments and decentralized applications (dApps): Solidity, Rust, Hardhat, Anchor and frontend building techniches with React,....
+
+- For trading knowledge and skills: more than 12 year experiences in developing strategies/indicators for MetaTrader 4/5, NinjaTrader 7/8, StrategyTrader, FXCM Tradestation (Lua), TradeStation (EasyLanguage, Optimizer API, TradeApp), MultiChart, ProRealTime, Motivewave, Interactive Brokers, ThinkOrSwim (ThinkScript), ForexTester, Amibroker (ALF), TradingView, QuantConnect, Quantopian, JForex, cAlgo, cRobot, SierraChart, eSignal (EFS), Bittrex, Bitfinex (CryptoCurrencies) … For more detailed information, please also refer to my profile and my job history. 
+
+- Involved in developing the trading strategies from simple to highly complicated systems : pair trading/scanning with correlation/cointegration calculations, scalper, grid, swing, candle patterns, harmonic patterns, martingale, money management with acceptable risk dollars, risk/reward, smart / dynamic trail stop,… Run tools to optimize the to be developed strategies to find the best parameters set. Optimization models to be used: backtesting optimizer, walkforward optimizer, API optimizer (the API optimizer is specific for Tradestation only),CrytoCurrencies on Bittrex API, Bitfinex API,...
+
+- Developed the financial applications / systems that can integrate with the trading platforms Ninjatrader (NT API), Interactive Broker (IB / TWS API), ActivTik, Iqfeed, CQG, OANDA (Restful API),  CrytoCurrencies on Bittrex API, Bitfinex API, …",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~019b857247b5f492ad1517518458463281152"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~019b857247b5f492ad"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Huynh Kim H."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c12jJzr4HYBOLoJsrxB8_RMvlJ4qiLnVqtQK5MngMNJV9wEwbQTUdxYagGVPkQmVr4""/>
+        <span class=""up-presence-indicator up-presence-indicator-online"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Huynh Kim H.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        Expert Web3, Ethereum, Dapps Development
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        Vietnam
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-2"" type=""button"">
+        <span class=""sr-only"">
+         Save - Huynh Kim H.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Huynh Kim H. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <!-- -->
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $37.50
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <!-- -->
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_7"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 100%;"">
+           <span class=""up-job-success-text"">
+            100% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_7"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_8"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_8"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-5"">
+      - More than 22 year experiences in software development industry. Involved in many client software development projects applied both technology and management skills. Gained great deals of knowledge, tactics and skills to the problem solving, management solving and technical solving. Find below for the main technologies and knowledge areas breakdown with more details: 
+
+- Advanced experiences in dealing with state of art technology platforms and programming languages: Visual Studio.NET, Visual Studio Code, Node.js, VB.NET, C#, C/C++, JSON/HTTP, PHP, QuickFix, Java, Lua, Python, ThinkScript, Pine Script, PowerLanguage(Multichart), EasyLanguage / TradeAPI/ Optimizer API (Tradestation), Bitfinex API, Solidity, ... 
+
+- Blockchain application and Web3 technology developments: Ethereum, Solana blockchain ecosystems and networks. Relevant programming languages and libraries for the Web3 and smart contract developments and decentralized applications (dApps): Solidity, Rust, Hardhat, Anchor and frontend building techniches with React,....
+
+- For trading knowledge and skills: more than 12 year experiences in developing strategies/indicators for MetaTrader 4/5, NinjaTrader 7/8, StrategyTrader, FXCM Tradestation (Lua), TradeStation (EasyLanguage, Optimizer API, TradeApp), MultiChart, ProRealTime, Motivewave, Interactive Brokers, ThinkOrSwim (ThinkScript), ForexTester, Amibroker (ALF), TradingView, QuantConnect, Quantopian, JForex, cAlgo, cRobot, SierraChart, eSignal (EFS), Bittrex, Bitfinex (CryptoCurrencies) … For more detailed information, please also refer to my profile and my job history. 
+
+- Involved in developing the trading strategies from simple to highly complicated systems : pair trading/scanning with correlation/cointegration calculations, scalper, grid, swing, candle patterns, harmonic patterns, martingale, money management with acceptable risk dollars, risk/reward, smart / dynamic trail stop,… Run tools to optimize the to be developed strategies to find the best parameters set. Optimization models to be used: backtesting optimizer, walkforward optimizer, API optimizer (the API optimizer is specific for Tradestation only),CrytoCurrencies on Bittrex API, Bitfinex API,...
+
+- Developed the financial applications / systems that can integrate with the trading platforms Ninjatrader (NT API), Interactive Broker (IB / TWS API), ActivTik, Iqfeed, CQG, OANDA (Restful API),  CrytoCurrencies on Bittrex API, Bitfinex API, …
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <div class=""mt-10"" data-test=""attribute-skills"" data-v-2085f2de="""" data-v-3a84ca38="""">
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Blockchain &amp; NFT Programming Languages
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Rust
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       TypeScript
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       web3.js
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Ethereum
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Node.js
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Java
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       JavaScript
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       C++
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       C#
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Solidity
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Python
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       PHP
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Blockchain &amp; NFT Deliverables
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style=""display: none;"" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Discord Bot Development
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Blockchain Platform
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       NFT Minting
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       DApp Development
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Smart Contract
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       NFT
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <button class=""up-btn-link pb-10"" data-v-3a84ca38="""">
+   1 more
+  </button>
+ </div>
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Huynh Kim H. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Colton J.,Top Rated Wordpress Developer,United States,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$175.00/hr,$200K+,100% Job Success,Top Rated Plus,"I'm one on the highest rated Wordpress, CSS and PHP developers on UpWork - carrying a ""Top Rated Plus"" badge and plenty of reviews to back it up.  
+
+I have over 15+ years of experience in Web Development, Design and Digital Marketing.  
+
+My specific expertise lies in Wordpress Web Development, Migrations, Speed Optimization, Responsive Design (Mobile-ready), UX / UI Design, Plugin Integrations, eCommerce, SEO and Theme Development.",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~01f3c2bcc972b8349a1044578476142100494"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~01f3c2bcc972b8349a"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Colton J."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1BB7oJrQC7sAjrTjkzOGWO764OvWRcF6u-ozPffWZr6VA3KG1gL7O-W8VaA3RXPQW""/>
+        <span class=""up-presence-indicator up-presence-indicator-offline"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Colton J.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        Top Rated Wordpress Developer
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        United States
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-3"" type=""button"">
+        <span class=""sr-only"">
+         Save - Colton J.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Colton J. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <div class=""mt-10"" data-v-2085f2de="""">
+    <div class=""d-flex align-items-center"" data-test=""pib-badge-popover"" data-v-2085f2de="""">
+     <span data-test=""up-c-tooltip"">
+      <span>
+       <div aria-describedby=""popper_9"" class=""up-popper-trigger"" role=""button"" tabindex=""0"">
+        <div class=""d-flex align-items-center"" data-test=""pib-badge"" id=""pib-badge-6"">
+         <div class=""up-badge up-badge-rounded-inverse pib-badge"">
+          <div class=""d-flex align-items-center pib-badge-typography"">
+           <div class=""up-icon sm"" data-test=""up-c-icon-v2"">
+            <svg aria-hidden=""true"" role=""img"" viewbox=""0.5 0.5 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+             <path d=""M12.063 4.679c.217-.002.416.03.527.235.105.195.025.375-.082.546-1.85 2.928-3.697 5.856-5.546 8.784-.112.18-.262.314-.479.232-.226-.086-.36-.262-.327-.525.106-.83.608-4.646.764-5.725.032-.226-.029-.279-.253-.277-1.227.01-2.454.002-3.678.008-.238 0-.455-.025-.58-.254-.127-.233.019-.409.143-.584L7.032.85c.073-.103.138-.213.252-.279.327-.196.689.033.689.449.006 1.1.012 2.2-.004 3.3-.004.28.068.372.357.369l3.737-.01"">
+             </path>
+            </svg>
+           </div>
+           <div>
+            Available now
+           </div>
+          </div>
+         </div>
+         <!-- -->
+        </div>
+       </div>
+      </span>
+      <span class=""popper up-tooltip"" data-test=""up-transition-intro"" id=""popper_9"" style=""display: none;"">
+       <div class=""size-md"">
+        <div class=""popper-wrapper"">
+         <div class=""popper-inner"">
+          <!-- -->
+          <div class=""popper-content"">
+           <div>
+            This freelancer is promoting they're open to more work.
+           </div>
+          </div>
+          <div class=""arrow"" x-arrow="""">
+          </div>
+         </div>
+        </div>
+       </div>
+      </span>
+     </span>
+    </div>
+   </div>
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $175.00
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-2 grid-col-sm-2 justify-self-start nowrap"" data-qa=""earnings"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_10"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <p class=""mb-0"" data-v-e40d7fb8="""">
+          <strong data-v-e40d7fb8="""">
+           <span data-test=""earned-amount-formatted"" data-v-e40d7fb8="""">
+            $200K+
+           </span>
+          </strong>
+          earned
+         </p>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_10"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <button class=""up-btn-reset up-popper-close"" data-cy=""popper-close-btn"" type=""button"">
+            <span class=""sr-only"">
+             Close the tooltip
+            </span>
+            <div class=""up-icon"" data-test=""up-c-icon-v2"">
+             <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+              <polygon fill-rule=""evenodd"" points=""12.524 0 7 5.524 1.476 0 0 1.476 5.524 7 0 12.524 1.476 14 7 8.476 12.524 14 14 12.524 8.476 7 14 1.476"">
+              </polygon>
+             </svg>
+            </div>
+           </button>
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              106 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              91 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              1313 hours worked
+             </p>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_11"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 100%;"">
+           <span class=""up-job-success-text"">
+            100% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_11"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_12"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_12"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-7"">
+      I'm one on the highest rated Wordpress, CSS and PHP developers on UpWork - carrying a ""Top Rated Plus"" badge and plenty of reviews to back it up.  
+
+I have over 15+ years of experience in Web Development, Design and Digital Marketing.  
+
+My specific expertise lies in Wordpress Web Development, Migrations, Speed Optimization, Responsive Design (Mobile-ready), UX / UI Design, Plugin Integrations, eCommerce, SEO and Theme Development.
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <!-- -->
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Colton J. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Siarhei S.,UX/UI mobile app design for iOS & Android with an experienced approach,Poland,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$55.00/hr,$800K+,99% Job Success,Top Rated Plus,"💬 “Siarhei and his team delivered excellent work on this website wireframe and design. Their communication was top-notch, and their design skills were excellent. I had a great experience working with them, and their help with our design was instrumental in helping us become on our messaging and branding. I will definitely plan to reach out if more design work is needed.”
+
+💬 ""Thank you so much, Siarhei and team, for your beautiful work. This is the best UI/UX team I have ever worked with. I constantly tell my team how much I love my designer. I have gotten so many compliments on how beautiful my app and website design is, and I could not recommend this team enough. I'm excited to work with them more in the future.""
+
+💬 ""It is one of my best experiences for engaging freelancing services in Upwork! Siarhei is extremely professional and an expert in his area of UI/UX. He helped us revamp our web and mobile application, giving us great advice and help along the project.”
+
+With a focus on users and key business indicators (KPIs), I am able to create designs that are both user-friendly and aligned with important business metrics.
+
+Why should you hire me on Upwork?
+✅ 500+ Successfully completed projects
+✅ Excellent communication skills, ensuring your project is always on track
+✅ Dedicated to creating a positive and lasting relationship with my clients
+✅ Creative problem-solver, always willing to go the extra mile to exceed your expectations
+✅ Constantly improving my skills and staying up-to-date with the latest design trends and techniques
+
+Project workflow includes:
+- Project discussion to gather requirements and details from the client's business, product, users, competitors, and technical aspects.
+- Creation of information architecture, user flow, and CJM.
+- Development of wireframes and clickable prototypes.
+- Agreement on the style and nature of the future project through the selection of references and creation of several design concepts for approval.
+- UX design with an attractive UI and a UIKit.
+- Prototyping to test the functionality and usability of the site.
+- Coordination with the client at each stage to minimize discrepancies with expectations.
+- Additional stages, such as surveys and UX research, may be necessary and will be included as needed.
+
+My design toolkit includes Figma️ (mostly ❤), Adobe Photoshop, Adobe Illustrator, Xmind and After Effects for animations.
+
+⏳ MOBILE APP
+Main Page Design (Wireframe + Mockup): 4 - 7 hours.
+One Inner Page Design (Wireframes + Mockups): 2 -3 hours.
+
+⏱️ MY WORKING HOURS:
+9 am - 6 pm (GMT+3), Monday – Friday (except Holidays).
+
+If this suits you and you are looking for the best quality and expertise in UX/UI design, just contact me and we will create an amazing product for your clients 🤙 I have experience working with a variety of industries including IT, Finance, Beauty, Education, Real Estate, Sports, Marketing, Army, Food, Travel, Law, SaaS, and startups. But my experience doesn't end there - I'm always excited to work with clients from new and diverse industries!
+
+If you have any questions just press the invite button on my profile and text me 😉 Thanks for your time and good luck!",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~01e016e6650bc321281044578476142100508"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~01e016e6650bc32128"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Siarhei S."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1UgheoceWHaqH1BLRMTgiLORrFxNVgGZzoJWELbRSiWqRGtCYk4e4MmC8HRzihROr""/>
+        <span class=""up-presence-indicator up-presence-indicator-online"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Siarhei S.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        UX/UI mobile app design for iOS &amp; Android with an experienced approach
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        Poland
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-4"" type=""button"">
+        <span class=""sr-only"">
+         Save - Siarhei S.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Siarhei S. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <div class=""mt-10"" data-v-2085f2de="""">
+    <div class=""d-flex align-items-center"" data-test=""pib-badge-popover"" data-v-2085f2de="""">
+     <span data-test=""up-c-tooltip"">
+      <span>
+       <div aria-describedby=""popper_13"" class=""up-popper-trigger"" role=""button"" tabindex=""0"">
+        <div class=""d-flex align-items-center"" data-test=""pib-badge"" id=""pib-badge-8"">
+         <div class=""up-badge up-badge-rounded-inverse pib-badge"">
+          <div class=""d-flex align-items-center pib-badge-typography"">
+           <div class=""up-icon sm"" data-test=""up-c-icon-v2"">
+            <svg aria-hidden=""true"" role=""img"" viewbox=""0.5 0.5 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+             <path d=""M12.063 4.679c.217-.002.416.03.527.235.105.195.025.375-.082.546-1.85 2.928-3.697 5.856-5.546 8.784-.112.18-.262.314-.479.232-.226-.086-.36-.262-.327-.525.106-.83.608-4.646.764-5.725.032-.226-.029-.279-.253-.277-1.227.01-2.454.002-3.678.008-.238 0-.455-.025-.58-.254-.127-.233.019-.409.143-.584L7.032.85c.073-.103.138-.213.252-.279.327-.196.689.033.689.449.006 1.1.012 2.2-.004 3.3-.004.28.068.372.357.369l3.737-.01"">
+             </path>
+            </svg>
+           </div>
+           <div>
+            Available now
+           </div>
+          </div>
+         </div>
+         <!-- -->
+        </div>
+       </div>
+      </span>
+      <span class=""popper up-tooltip"" data-test=""up-transition-intro"" id=""popper_13"" style=""display: none;"">
+       <div class=""size-md"">
+        <div class=""popper-wrapper"">
+         <div class=""popper-inner"">
+          <!-- -->
+          <div class=""popper-content"">
+           <div>
+            This freelancer is promoting they're open to more work.
+           </div>
+          </div>
+          <div class=""arrow"" x-arrow="""">
+          </div>
+         </div>
+        </div>
+       </div>
+      </span>
+     </span>
+    </div>
+   </div>
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $55.00
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-2 grid-col-sm-2 justify-self-start nowrap"" data-qa=""earnings"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_14"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <p class=""mb-0"" data-v-e40d7fb8="""">
+          <strong data-v-e40d7fb8="""">
+           <span data-test=""earned-amount-formatted"" data-v-e40d7fb8="""">
+            $800K+
+           </span>
+          </strong>
+          earned
+         </p>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_14"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <button class=""up-btn-reset up-popper-close"" data-cy=""popper-close-btn"" type=""button"">
+            <span class=""sr-only"">
+             Close the tooltip
+            </span>
+            <div class=""up-icon"" data-test=""up-c-icon-v2"">
+             <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+              <polygon fill-rule=""evenodd"" points=""12.524 0 7 5.524 1.476 0 0 1.476 5.524 7 0 12.524 1.476 14 7 8.476 12.524 14 14 12.524 8.476 7 14 1.476"">
+              </polygon>
+             </svg>
+            </div>
+           </button>
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              334 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              251 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              14244 hours worked
+             </p>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_15"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 98%;"">
+           <span class=""up-job-success-text"">
+            99% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_15"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_16"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_16"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-9"">
+      💬 “Siarhei and his team delivered excellent work on this website wireframe and design. Their communication was top-notch, and their design skills were excellent. I had a great experience working with them, and their help with our design was instrumental in helping us become on our messaging and branding. I will definitely plan to reach out if more design work is needed.”
+
+💬 ""Thank you so much, Siarhei and team, for your beautiful work. This is the best UI/UX team I have ever worked with. I constantly tell my team how much I love my designer. I have gotten so many compliments on how beautiful my app and website design is, and I could not recommend this team enough. I'm excited to work with them more in the future.""
+
+💬 ""It is one of my best experiences for engaging freelancing services in Upwork! Siarhei is extremely professional and an expert in his area of UI/UX. He helped us revamp our web and mobile application, giving us great advice and help along the project.”
+
+With a focus on users and key business indicators (KPIs), I am able to create designs that are both user-friendly and aligned with important business metrics.
+
+Why should you hire me on Upwork?
+✅ 500+ Successfully completed projects
+✅ Excellent communication skills, ensuring your project is always on track
+✅ Dedicated to creating a positive and lasting relationship with my clients
+✅ Creative problem-solver, always willing to go the extra mile to exceed your expectations
+✅ Constantly improving my skills and staying up-to-date with the latest design trends and techniques
+
+Project workflow includes:
+- Project discussion to gather requirements and details from the client's business, product, users, competitors, and technical aspects.
+- Creation of information architecture, user flow, and CJM.
+- Development of wireframes and clickable prototypes.
+- Agreement on the style and nature of the future project through the selection of references and creation of several design concepts for approval.
+- UX design with an attractive UI and a UIKit.
+- Prototyping to test the functionality and usability of the site.
+- Coordination with the client at each stage to minimize discrepancies with expectations.
+- Additional stages, such as surveys and UX research, may be necessary and will be included as needed.
+
+My design toolkit includes Figma️ (mostly ❤), Adobe Photoshop, Adobe Illustrator, Xmind and After Effects for animations.
+
+⏳ MOBILE APP
+Main Page Design (Wireframe + Mockup): 4 - 7 hours.
+One Inner Page Design (Wireframes + Mockups): 2 -3 hours.
+
+⏱️ MY WORKING HOURS:
+9 am - 6 pm (GMT+3), Monday – Friday (except Holidays).
+
+If this suits you and you are looking for the best quality and expertise in UX/UI design, just contact me and we will create an amazing product for your clients 🤙 I have experience working with a variety of industries including IT, Finance, Beauty, Education, Real Estate, Sports, Marketing, Army, Food, Travel, Law, SaaS, and startups. But my experience doesn't end there - I'm always excited to work with clients from new and diverse industries!
+
+If you have any questions just press the invite button on my profile and text me 😉 Thanks for your time and good luck!
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <div class=""mt-10"" data-test=""attribute-skills"" data-v-2085f2de="""" data-v-3a84ca38="""">
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Mobile Design Deliverables
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       User Flow
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Style Guide
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Mockup
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Prototyping
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Mobile App
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       High Fidelity Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Redesign
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Component Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Mobile App Redesign
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Wireframing
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Icon Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Sketching
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Landing Page
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Email Design
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    UX/UI Design Software
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Adobe Illustrator
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Adobe XD
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Figma
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Adobe Photoshop
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Zeplin
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       InVision
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Axure RP
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Balsamiq
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Sketch
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Webflow
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Proto.io
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Marvel App
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Principle for Mac
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       ProtoPie
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <button class=""up-btn-link pb-10"" data-v-3a84ca38="""">
+   3 more
+  </button>
+ </div>
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Siarhei S. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Sourav J.,Expert Magento Developer with Frontend/Backend  Experience,India,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$25.00/hr,,100% Job Success,Top Rated Plus,"⏹Completed 400+ Magento Projects With 5 Star Feedback
+⏹ Top Rated Plus Badge on Upwork
+⏹ 100% Job Success Score
+⏹ 8 Plus Years Experience on Magento.
+
+I’m an independent Magento 2 Full Stack Developer with 8+ years of experience with Magento Community/Enterprise edition.  Develop web by writing well-designed and efficient codes to maintain, expand and scale eCommerce websites. Create, manage and maintain websites and user interfaces.
+
+☑ Easy communication & incredible support. You can schedule a call with me any time to go over any new tasks or upcoming projects. I only work on Upwork Platform, so my respond time fast than other developers.
+
+☑ Safe and Secure. I've been a trusted member of the Magento ecosystem & Upwork Platform  for 8+ years.
+
+☑ Full Development Process. Each issue/task goes through a Agile  workflow that includes: Discover and  Development, Documentation & Deployment.
+
+I offer the following services:
+- Magento bespoke development
+- Development of simple and complex Magento stores
+- Development of custom Magento extensions
+- Development of Magento themes
+- Magento upgrades
+- Performance optimization
+- Magento integration with ERP, CRM, and other systems
+- UX and UI design for Magento websites
+- Magento support and maintenance
+- Magento audit and code review
+- Magento websites system administration",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~013742757fd56b2b601017484851352698949"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~013742757fd56b2b60"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Sourav J."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1qkLEUNUSrUgXBY0ESgHjwS8nRkhJoz-EvelWKQbkUnIKcKeLaKPVexn_dN47-0BF""/>
+        <span class=""up-presence-indicator up-presence-indicator-online"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Sourav J.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        Expert Magento Developer with Frontend/Backend  Experience
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        India
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-5"" type=""button"">
+        <span class=""sr-only"">
+         Save - Sourav J.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Sourav J. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <!-- -->
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $25.00
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <!-- -->
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_17"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 100%;"">
+           <span class=""up-job-success-text"">
+            100% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_17"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_18"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_18"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-10"">
+      ⏹Completed 400+ Magento Projects With 5 Star Feedback
+⏹ Top Rated Plus Badge on Upwork
+⏹ 100% Job Success Score
+⏹ 8 Plus Years Experience on Magento.
+
+I’m an independent Magento 2 Full Stack Developer with 8+ years of experience with Magento Community/Enterprise edition.  Develop web by writing well-designed and efficient codes to maintain, expand and scale eCommerce websites. Create, manage and maintain websites and user interfaces.
+
+☑ Easy communication &amp; incredible support. You can schedule a call with me any time to go over any new tasks or upcoming projects. I only work on Upwork Platform, so my respond time fast than other developers.
+
+☑ Safe and Secure. I've been a trusted member of the Magento ecosystem &amp; Upwork Platform  for 8+ years.
+
+☑ Full Development Process. Each issue/task goes through a Agile  workflow that includes: Discover and  Development, Documentation &amp; Deployment.
+
+I offer the following services:
+- Magento bespoke development
+- Development of simple and complex Magento stores
+- Development of custom Magento extensions
+- Development of Magento themes
+- Magento upgrades
+- Performance optimization
+- Magento integration with ERP, CRM, and other systems
+- UX and UI design for Magento websites
+- Magento support and maintenance
+- Magento audit and code review
+- Magento websites system administration
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <div class=""mt-10"" data-test=""attribute-skills"" data-v-2085f2de="""" data-v-3a84ca38="""">
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    eCommerce Development Deliverables
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Migration
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Bug Fix
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Optimization
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Design Enhancement
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Responsive Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Theme Development
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Customization
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Theme Customization
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Ecommerce Website
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Templates
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Landing Page
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    eCommerce Development Skills
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style=""display: none;"" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       PHP
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       React
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       HTML
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       CSS
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       CSS 3
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       HTML5
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <button class=""up-btn-link pb-10"" data-v-3a84ca38="""">
+   3 more
+  </button>
+ </div>
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Sourav J. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Dmitrii B.,UI/UX for E-commerce / CRO / WooCommerce & Shopify Development,Estonia,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$45.00/hr,$300K+,100% Job Success,Top Rated Plus,"I redesign SaaS and E-commerce businesses to help them excel.
+
+User interface and user experience (UI/UX) are essential to your online business. Whether you run an e-commerce platform, SaaS company or marketplace — my team can help you craft intuitive designs that increase conversions, revenue and customer satisfaction.
+
+My goal is to grow your business by seamlessly designing the user experience (UX) and interface (UI) of your website, mobile app, or desktop application. 
+
+I provide a practical goal-oriented approach where I first analyze your current situation: perform UI/UX audit, check your key KPIs, analytics, do niche analysis and competitor research. The goal of this phase is to get a deep understanding of your current situation, identify the areas for improvement and come up with a plan to increase revenue. 
+
+Next comes designing phase - UI/UX design changes that can either be applied on your existing designs (gradual approach with step-by-step application of improved designs and A/B testing their effectiveness) or building brand new designs from the ground up. (innovative approach). In scenarios we will work with your developers and marketing team to ensure that implementation is correct and generates projected business results. 
+
+If you think we're a good fit - let's schedule a call and talk through the details. 
+Dmitrii",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~013392deea2475e72b1017484851352698949"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~013392deea2475e72b"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Dmitrii B."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1ffzmlZ2pguGP4CFWbD0JsOLHi47d6BQWS_DFkW6Yvfv0pLInipM_n3yfmbr5wS28""/>
+        <span class=""up-presence-indicator up-presence-indicator-offline"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Dmitrii B.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        UI/UX for E-commerce / CRO / WooCommerce &amp; Shopify Development
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        Estonia
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-6"" type=""button"">
+        <span class=""sr-only"">
+         Save - Dmitrii B.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Dmitrii B. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <div class=""mt-10"" data-v-2085f2de="""">
+    <div class=""d-flex align-items-center"" data-test=""pib-badge-popover"" data-v-2085f2de="""">
+     <span data-test=""up-c-tooltip"">
+      <span>
+       <div aria-describedby=""popper_19"" class=""up-popper-trigger"" role=""button"" tabindex=""0"">
+        <div class=""d-flex align-items-center"" data-test=""pib-badge"" id=""pib-badge-11"">
+         <div class=""up-badge up-badge-rounded-inverse pib-badge"">
+          <div class=""d-flex align-items-center pib-badge-typography"">
+           <div class=""up-icon sm"" data-test=""up-c-icon-v2"">
+            <svg aria-hidden=""true"" role=""img"" viewbox=""0.5 0.5 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+             <path d=""M12.063 4.679c.217-.002.416.03.527.235.105.195.025.375-.082.546-1.85 2.928-3.697 5.856-5.546 8.784-.112.18-.262.314-.479.232-.226-.086-.36-.262-.327-.525.106-.83.608-4.646.764-5.725.032-.226-.029-.279-.253-.277-1.227.01-2.454.002-3.678.008-.238 0-.455-.025-.58-.254-.127-.233.019-.409.143-.584L7.032.85c.073-.103.138-.213.252-.279.327-.196.689.033.689.449.006 1.1.012 2.2-.004 3.3-.004.28.068.372.357.369l3.737-.01"">
+             </path>
+            </svg>
+           </div>
+           <div>
+            Available now
+           </div>
+          </div>
+         </div>
+         <!-- -->
+        </div>
+       </div>
+      </span>
+      <span class=""popper up-tooltip"" data-test=""up-transition-intro"" id=""popper_19"" style=""display: none;"">
+       <div class=""size-md"">
+        <div class=""popper-wrapper"">
+         <div class=""popper-inner"">
+          <!-- -->
+          <div class=""popper-content"">
+           <div>
+            This freelancer is promoting they're open to more work.
+           </div>
+          </div>
+          <div class=""arrow"" x-arrow="""">
+          </div>
+         </div>
+        </div>
+       </div>
+      </span>
+     </span>
+    </div>
+   </div>
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $45.00
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-2 grid-col-sm-2 justify-self-start nowrap"" data-qa=""earnings"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_20"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <p class=""mb-0"" data-v-e40d7fb8="""">
+          <strong data-v-e40d7fb8="""">
+           <span data-test=""earned-amount-formatted"" data-v-e40d7fb8="""">
+            $300K+
+           </span>
+          </strong>
+          earned
+         </p>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_20"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <button class=""up-btn-reset up-popper-close"" data-cy=""popper-close-btn"" type=""button"">
+            <span class=""sr-only"">
+             Close the tooltip
+            </span>
+            <div class=""up-icon"" data-test=""up-c-icon-v2"">
+             <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+              <polygon fill-rule=""evenodd"" points=""12.524 0 7 5.524 1.476 0 0 1.476 5.524 7 0 12.524 1.476 14 7 8.476 12.524 14 14 12.524 8.476 7 14 1.476"">
+              </polygon>
+             </svg>
+            </div>
+           </button>
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              106 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              172 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              4660 hours worked
+             </p>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_21"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 100%;"">
+           <span class=""up-job-success-text"">
+            100% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_21"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_22"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_22"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-12"">
+      I redesign SaaS and E-commerce businesses to help them excel.
+
+User interface and user experience (UI/UX) are essential to your online business. Whether you run an e-commerce platform, SaaS company or marketplace — my team can help you craft intuitive designs that increase conversions, revenue and customer satisfaction.
+
+My goal is to grow your business by seamlessly designing the user experience (UX) and interface (UI) of your website, mobile app, or desktop application. 
+
+I provide a practical goal-oriented approach where I first analyze your current situation: perform UI/UX audit, check your key KPIs, analytics, do niche analysis and competitor research. The goal of this phase is to get a deep understanding of your current situation, identify the areas for improvement and come up with a plan to increase revenue. 
+
+Next comes designing phase - UI/UX design changes that can either be applied on your existing designs (gradual approach with step-by-step application of improved designs and A/B testing their effectiveness) or building brand new designs from the ground up. (innovative approach). In scenarios we will work with your developers and marketing team to ensure that implementation is correct and generates projected business results. 
+
+If you think we're a good fit - let's schedule a call and talk through the details. 
+Dmitrii
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <div class=""mt-10"" data-test=""attribute-skills"" data-v-2085f2de="""" data-v-3a84ca38="""">
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    eCommerce Development Deliverables
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Templates
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       App Development
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Optimization
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Theme Development
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Customization
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Design Enhancement
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Landing Page
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Shopify Templates
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Theme Customization
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Migration
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Ecommerce Website
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Responsive Design
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    eCommerce Platforms
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style=""display: none;"" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       WooCommerce
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Shopify
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       WordPress
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Elementor
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       ClickFunnels
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <!-- -->
+ </div>
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Dmitrii B. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Mohammad K.,WordPress Pro Developer,Bangladesh,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$24.99/hr,$100K+,94% Job Success,Top Rated Plus,"Hi
+I offer WordPress Website from scratch,  or with any premium theme like Avada, Be, Divi, Bridge, Newspaper, Real estate 7 pro, MyListing, Thrive Themes etc.
+
+I am experienced with the most popular page builder such as WPBakery Page Builder, Beaver Builder, Elementor, Thrive Architect,The Divi Builder etc.
+
+If you need any custom functionality into your site , you can consider me.",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~01c8c69a96f03222ab1044578476142100494"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~01c8c69a96f03222ab"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Mohammad K."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1rsG_ULvdmhdYr8mwlbbrsefAJY-SC_kZgZ7U70zJJUkKDeo5tjbpXKg6XDJtlV_P""/>
+        <span class=""up-presence-indicator up-presence-indicator-offline"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Mohammad K.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        WordPress Pro Developer
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        Bangladesh
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-7"" type=""button"">
+        <span class=""sr-only"">
+         Save - Mohammad K.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Mohammad K. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <!-- -->
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $24.99
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-2 grid-col-sm-2 justify-self-start nowrap"" data-qa=""earnings"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_23"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <p class=""mb-0"" data-v-e40d7fb8="""">
+          <strong data-v-e40d7fb8="""">
+           <span data-test=""earned-amount-formatted"" data-v-e40d7fb8="""">
+            $100K+
+           </span>
+          </strong>
+          earned
+         </p>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_23"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <button class=""up-btn-reset up-popper-close"" data-cy=""popper-close-btn"" type=""button"">
+            <span class=""sr-only"">
+             Close the tooltip
+            </span>
+            <div class=""up-icon"" data-test=""up-c-icon-v2"">
+             <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+              <polygon fill-rule=""evenodd"" points=""12.524 0 7 5.524 1.476 0 0 1.476 5.524 7 0 12.524 1.476 14 7 8.476 12.524 14 14 12.524 8.476 7 14 1.476"">
+              </polygon>
+             </svg>
+            </div>
+           </button>
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              48 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              241 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              1157 hours worked
+             </p>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_24"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 88%;"">
+           <span class=""up-job-success-text"">
+            94% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_24"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_25"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_25"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-13"">
+      Hi
+I offer WordPress Website from scratch,  or with any premium theme like Avada, Be, Divi, Bridge, Newspaper, Real estate 7 pro, MyListing, Thrive Themes etc.
+
+I am experienced with the most popular page builder such as WPBakery Page Builder, Beaver Builder, Elementor, Thrive Architect,The Divi Builder etc.
+
+If you need any custom functionality into your site , you can consider me.
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class=""skills mt-10"" data-test=""skills"" data-v-2085f2de="""" data-v-6d2ee1e9="""">
+  <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+   <!-- -->
+   <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style=""display: none;"" type=""button"">
+    Skip skills
+   </button>
+   <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+    <span class=""sr-only"">
+     Previous skills
+    </span>
+    <div class=""up-icon"" data-test=""up-c-icon-v2"">
+     <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+      <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+      </polygon>
+     </svg>
+    </div>
+   </button>
+   <div class=""up-skill-wrapper"">
+    <div class=""up-skill-badge up-badge up-badge-highlight up-badge-rounded-inverse"" data-qa=""offers_consultations_badge"" data-v-2085f2de="""" tabindex=""0"">
+     <div class=""up-icon sm"" data-test=""up-c-icon-v2"" data-v-2085f2de="""">
+      <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+       <path d=""M10.077 5.857v-2.37c0-.473-.437-.947-.842-.947H1.277a.747.747 0 00-.737.752v7.779c0 .948.474.948.947.948H9.13s.948 0 .948-.948V8.227l3.733 2.961V3.014l-3.733 2.843z"">
+       </path>
+      </svg>
+     </div>
+     Offers consultations
+    </div>
+   </div>
+   <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style=""display: none;"" type=""button"">
+    <span class=""sr-only"">
+     Next skills
+    </span>
+    <div class=""up-icon"" data-test=""up-c-icon-v2"">
+     <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+      <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+      </polygon>
+     </svg>
+    </div>
+   </button>
+  </div>
+ </div>
+ <!-- -->
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Mohammad K. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Darko K.,Creative Web/Mobile Designer & UI/UX Expert,Serbia,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$40.00/hr,,95% Job Success,Top Rated Plus,"👋 Hey there, looking forward to build awesome designs with you!
+
+I'm passionate about helping businesses launch new websites and overhaul their existing sites. 
+
+✅ 9+ successful years as an established designer.
+✅ 500+ concluded projects, both B2C and B2B.
+
+My expertise and responsibilities include, among others, the following:
+
+🧑‍💻 Website Design
+🧑‍💻 Website Redesign
+🧑‍💻 User Experience and Interface Design
+🧑‍💻 Mobile Website Design
+🧑‍💻 Wireframes
+🧑‍💻 Mockup
+🧑‍💻 Sketches
+🧑‍💻 Style Guide
+🧑‍💻 User Flows
+🧑‍💻 Landing Page
+🧑‍💻 High Fidelity Design
+🧑‍💻 Icons
+
+Dedication to your project, effective and transparent communication, a thoughtful and unique approach to each individual client's needs. I truly care and want to see you be a success.
+
+Whether you're an established organization or a growing startup, having professional, eye-catching design material goes a long way to boost brand awareness and be immediately recognizable.
+
+You can count on me to provide cutting-edge and exquisite work that will give your brand the presentation it needs to stand out! My objective is to help you present your message in a very modern and clean way.
+
+If you are looking to make an impact, I am here to make it happen.
+
+Contact me regarding any questions, I will gladly reply.
+Thank you and have a great day!",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~0191c6a5239a6aa1c61044578476142100494"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~0191c6a5239a6aa1c6"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Darko K."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1MkixH1jbn-JzEaVtknWpfUPL1HqcvFOf56CQGhdEWc19FVO_RdAY-iUw0p6yhpyX""/>
+        <span class=""up-presence-indicator up-presence-indicator-away"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Darko K.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        Creative Web/Mobile Designer &amp; UI/UX Expert
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        Serbia
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-8"" type=""button"">
+        <span class=""sr-only"">
+         Save - Darko K.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Darko K. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <div class=""mt-10"" data-v-2085f2de="""">
+    <div class=""d-flex align-items-center"" data-test=""pib-badge-popover"" data-v-2085f2de="""">
+     <span data-test=""up-c-tooltip"">
+      <span>
+       <div aria-describedby=""popper_26"" class=""up-popper-trigger"" role=""button"" tabindex=""0"">
+        <div class=""d-flex align-items-center"" data-test=""pib-badge"" id=""pib-badge-14"">
+         <div class=""up-badge up-badge-rounded-inverse pib-badge"">
+          <div class=""d-flex align-items-center pib-badge-typography"">
+           <div class=""up-icon sm"" data-test=""up-c-icon-v2"">
+            <svg aria-hidden=""true"" role=""img"" viewbox=""0.5 0.5 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+             <path d=""M12.063 4.679c.217-.002.416.03.527.235.105.195.025.375-.082.546-1.85 2.928-3.697 5.856-5.546 8.784-.112.18-.262.314-.479.232-.226-.086-.36-.262-.327-.525.106-.83.608-4.646.764-5.725.032-.226-.029-.279-.253-.277-1.227.01-2.454.002-3.678.008-.238 0-.455-.025-.58-.254-.127-.233.019-.409.143-.584L7.032.85c.073-.103.138-.213.252-.279.327-.196.689.033.689.449.006 1.1.012 2.2-.004 3.3-.004.28.068.372.357.369l3.737-.01"">
+             </path>
+            </svg>
+           </div>
+           <div>
+            Available now
+           </div>
+          </div>
+         </div>
+         <!-- -->
+        </div>
+       </div>
+      </span>
+      <span class=""popper up-tooltip"" data-test=""up-transition-intro"" id=""popper_26"" style=""display: none;"">
+       <div class=""size-md"">
+        <div class=""popper-wrapper"">
+         <div class=""popper-inner"">
+          <!-- -->
+          <div class=""popper-content"">
+           <div>
+            This freelancer is promoting they're open to more work.
+           </div>
+          </div>
+          <div class=""arrow"" x-arrow="""">
+          </div>
+         </div>
+        </div>
+       </div>
+      </span>
+     </span>
+    </div>
+   </div>
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $40.00
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <!-- -->
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_27"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 90%;"">
+           <span class=""up-job-success-text"">
+            95% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_27"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_28"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_28"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-15"">
+      👋 Hey there, looking forward to build awesome designs with you!
+
+I'm passionate about helping businesses launch new websites and overhaul their existing sites. 
+
+✅ 9+ successful years as an established designer.
+✅ 500+ concluded projects, both B2C and B2B.
+
+My expertise and responsibilities include, among others, the following:
+
+🧑‍💻 Website Design
+🧑‍💻 Website Redesign
+🧑‍💻 User Experience and Interface Design
+🧑‍💻 Mobile Website Design
+🧑‍💻 Wireframes
+🧑‍💻 Mockup
+🧑‍💻 Sketches
+🧑‍💻 Style Guide
+🧑‍💻 User Flows
+🧑‍💻 Landing Page
+🧑‍💻 High Fidelity Design
+🧑‍💻 Icons
+
+Dedication to your project, effective and transparent communication, a thoughtful and unique approach to each individual client's needs. I truly care and want to see you be a success.
+
+Whether you're an established organization or a growing startup, having professional, eye-catching design material goes a long way to boost brand awareness and be immediately recognizable.
+
+You can count on me to provide cutting-edge and exquisite work that will give your brand the presentation it needs to stand out! My objective is to help you present your message in a very modern and clean way.
+
+If you are looking to make an impact, I am here to make it happen.
+
+Contact me regarding any questions, I will gladly reply.
+Thank you and have a great day!
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <div class=""mt-10"" data-test=""attribute-skills"" data-v-2085f2de="""" data-v-3a84ca38="""">
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Web Design Deliverables
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Mockup
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       User Flow
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       High Fidelity Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Style Guide
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Landing Page
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Component Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Prototyping
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Email Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Website Redesign
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Sketching
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Icon Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Wireframing
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <div data-v-3a84ca38="""">
+   <strong data-v-3a84ca38="""">
+    Web Design Skills
+   </strong>
+   <div class=""skills"" data-test=""skills"" data-v-3a84ca38="""" data-v-6d2ee1e9="""">
+    <div class=""up-skill-container attr-skill group"" data-test=""up-c-skill-container"" data-v-6d2ee1e9="""" role=""group"">
+     <!-- -->
+     <button class=""up-skill-skip sr-only"" data-cy=""skill-skip-link"" style="""" type=""button"">
+      Skip skills
+     </button>
+     <button class=""up-btn up-btn-link up-btn-prev"" data-cy=""left-arrow"" style=""display: none;"" type=""button"">
+      <span class=""sr-only"">
+       Previous skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""3 7 10.433 14 12 12.524 6.134 7 12 1.476 10.433 0"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+     <div class=""up-skill-wrapper"">
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Journey Mapping
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       UX Writing
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Visual Communication
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Graphic Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Mobile App Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Information Architecture
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Responsive Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Software Design
+      </div>
+      <div class=""up-skill-badge"" data-v-6d2ee1e9="""" tabindex=""0"">
+       Web Design
+      </div>
+     </div>
+     <button class=""up-btn up-btn-link up-btn-next"" data-cy=""right-arrow"" style="""" type=""button"">
+      <span class=""sr-only"">
+       Next skills
+      </span>
+      <div class=""up-icon"" data-test=""up-c-icon-v2"">
+       <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+        <polygon fill-rule=""evenodd"" points=""11.5 7 4.067 0 2.5 1.476 8.366 7 2.5 12.524 4.067 14"">
+        </polygon>
+       </svg>
+      </div>
+     </button>
+    </div>
+   </div>
+  </div>
+  <button class=""up-btn-link pb-10"" data-v-3a84ca38="""">
+   2 more
+  </button>
+ </div>
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Darko K. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
+Francis Dale F.,WordPress Design and Development Expert,Philippines,https://www.upwork.com/freelancers/~0144882b99a1de97d6,$20.00/hr,$500K+,95% Job Success,Top Rated Plus,"Over the past 6 years, I had worked with numerous freelance and full time jobs ranging from WordPress Frontend Design to Project Management and Website Management and Maintenance. I usually work with (though not limited to) small businesses and individuals who needs help with having a strong online presence and build or boost their reputation and branding via their website.
+
+One of the most important aspects for me while working with my clients is communication. For me, communication is the key in a good working relationship that's why I work closely and always keep in touch with my clients. 
+
+Highly experienced with WordPress. Expert with ThemeFusion's Avada, ThemeNectar's Salient and ElegantThemes' Divi theme, as well as ThemePunch's Slider Revolution. Awesome with HTML5 and CSS3. Well experienced with Responsive Web design, Knowledgeable with WordPress PHP and SEO. Experienced with the following applications: Adobe Creative Suite (Photoshop, Illustrator, Dreamweaver), Sony Vegas Pro, Camtasia Studio, MS Office Applications (Word, Excel, Powerpoint, OneNote) 
+
+Like what you see? Looking for a talented guy that's easy to talk with? Send me a message and lets talk.",,,"<div avatar-size=""md"" class=""up-card-section up-card-hover"" data-test=""FreelancerTile"" data-test-key=""~01b19274aef0f2a5511044578476142100494"" data-v-2085f2de="""">
+ <div class=""d-flex freelancer-tile"" data-v-2085f2de="""">
+  <!-- -->
+  <div class=""full-width"" data-v-2085f2de="""">
+   <div class=""d-flex justify-space-between align-items-start"" data-v-2085f2de="""">
+    <div class=""cfe-ui-freelancer-tile-identity flex-1 m-0 overflow-auto"" data-qa-freelancer-ciphertext=""~01b19274aef0f2a551"" data-test=""freelancer-tile-identity"" data-v-2085f2de="""">
+     <div class=""identity-portrait mr-10 mr-lg-20"">
+      <div class=""cfe-ui-profile-photo"" data-test=""photo"">
+       <div class=""up-presence-container"" data-test=""user-presence"">
+        <!-- -->
+        <img alt=""Francis Dale F."" class=""up-avatar up-avatar-60"" loading=""lazy"" src=""https://www.upwork.com/profile-portraits/c1csW7P31Aid8BmhJsXsL7bxmFl9iHiEgtFTEPGdS5MIVnm8WniPenZXieoI2fkwAx""/>
+        <span class=""up-presence-indicator up-presence-indicator-online"">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class=""identity-content"">
+      <div class=""d-flex name-container"">
+       <button class=""my-0 mr-5 up-btn-link text-left"" itemprop=""name"">
+        <div class=""identity-name"">
+         Francis Dale F.
+        </div>
+        <!-- -->
+       </button>
+      </div>
+      <p class=""my-0 freelancer-title"">
+       <strong>
+        WordPress Design and Development Expert
+       </strong>
+      </p>
+      <div class=""d-inline-block text-muted"" data-test=""profile-location"">
+       <span>
+       </span>
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <!-- -->
+       <span class=""d-inline-block vertical-align-middle"" itemprop=""country-name"">
+        Philippines
+       </span>
+      </div>
+     </div>
+    </div>
+    <div class=""d-flex"" data-test=""TileActionSet"" data-v-2085f2de="""">
+     <span class=""mr-md-10"" data-test=""VtbSaveDropdown"" enable-long-list-recommendation=""true"">
+      <span class=""vtb-save-talent-btn"">
+       <button class=""up-btn up-btn-default up-btn-circle up-dropdown-toggle up-btn-sm"" id=""save-dropdown-9"" type=""button"">
+        <span class=""sr-only"">
+         Save - Francis Dale F.
+        </span>
+        <div class=""up-icon"" data-test=""UpCIconV2"">
+         <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+          <path d=""M3.938 1.683c-1.206 0-2.188.999-2.188 2.227 0 .487.153.95.441 1.339l4.81 5.996 4.829-6.021c.268-.364.421-.827.421-1.314 0-1.228-.982-2.227-2.188-2.227-1.206 0-2.187.999-2.187 2.227h-1.75c0-1.228-.982-2.227-2.188-2.227zM7.001 14L.785 6.252A3.888 3.888 0 010 3.91C0 1.754 1.767 0 3.938 0c1.236 0 2.34.568 3.063 1.455A3.94 3.94 0 0110.063 0c2.171 0 3.938 1.754 3.938 3.91 0 .839-.265 1.641-.766 2.316L7.001 14z"" fill-rule=""evenodd"">
+          </path>
+         </svg>
+        </div>
+       </button>
+      </span>
+      <!-- -->
+      <!-- -->
+      <span data-test=""InProductNotificationPopover"">
+       <!-- -->
+      </span>
+     </span>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+     <button aria-label=""Invite Francis Dale F. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm d-none d-md-block"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+      Invite to Job
+     </button>
+    </div>
+    <!-- -->
+   </div>
+   <div class=""mt-10"" data-v-2085f2de="""">
+    <div class=""d-flex align-items-center"" data-test=""pib-badge-popover"" data-v-2085f2de="""">
+     <span data-test=""up-c-tooltip"">
+      <span>
+       <div aria-describedby=""popper_29"" class=""up-popper-trigger"" role=""button"" tabindex=""0"">
+        <div class=""d-flex align-items-center"" data-test=""pib-badge"" id=""pib-badge-16"">
+         <div class=""up-badge up-badge-rounded-inverse pib-badge"">
+          <div class=""d-flex align-items-center pib-badge-typography"">
+           <div class=""up-icon sm"" data-test=""up-c-icon-v2"">
+            <svg aria-hidden=""true"" role=""img"" viewbox=""0.5 0.5 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+             <path d=""M12.063 4.679c.217-.002.416.03.527.235.105.195.025.375-.082.546-1.85 2.928-3.697 5.856-5.546 8.784-.112.18-.262.314-.479.232-.226-.086-.36-.262-.327-.525.106-.83.608-4.646.764-5.725.032-.226-.029-.279-.253-.277-1.227.01-2.454.002-3.678.008-.238 0-.455-.025-.58-.254-.127-.233.019-.409.143-.584L7.032.85c.073-.103.138-.213.252-.279.327-.196.689.033.689.449.006 1.1.012 2.2-.004 3.3-.004.28.068.372.357.369l3.737-.01"">
+             </path>
+            </svg>
+           </div>
+           <div>
+            Available now
+           </div>
+          </div>
+         </div>
+         <!-- -->
+        </div>
+       </div>
+      </span>
+      <span class=""popper up-tooltip"" data-test=""up-transition-intro"" id=""popper_29"" style=""display: none;"">
+       <div class=""size-md"">
+        <div class=""popper-wrapper"">
+         <div class=""popper-inner"">
+          <!-- -->
+          <div class=""popper-content"">
+           <div>
+            This freelancer is promoting they're open to more work.
+           </div>
+          </div>
+          <div class=""arrow"" x-arrow="""">
+          </div>
+         </div>
+        </div>
+       </div>
+      </span>
+     </span>
+    </div>
+   </div>
+   <div class=""mt-10"" data-test=""freelancer-tile-details"" data-v-2085f2de="""" data-v-e40d7fb8="""">
+    <div class=""profile-stats mb-10"" data-v-e40d7fb8="""">
+     <div class=""grid-col-1 grid-col-sm-1 justify-self-start nowrap"" data-qa=""rate"" data-v-e40d7fb8="""">
+      <span data-v-e40d7fb8="""">
+       <strong data-v-e40d7fb8="""">
+        $20.00
+       </strong>
+       <span aria-label=""per hour"" data-v-e40d7fb8="""">
+        /hr
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-2 grid-col-sm-2 justify-self-start nowrap"" data-qa=""earnings"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_30"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <p class=""mb-0"" data-v-e40d7fb8="""">
+          <strong data-v-e40d7fb8="""">
+           <span data-test=""earned-amount-formatted"" data-v-e40d7fb8="""">
+            $500K+
+           </span>
+          </strong>
+          earned
+         </p>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_30"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <button class=""up-btn-reset up-popper-close"" data-cy=""popper-close-btn"" type=""button"">
+            <span class=""sr-only"">
+             Close the tooltip
+            </span>
+            <div class=""up-icon"" data-test=""up-c-icon-v2"">
+             <svg aria-hidden=""true"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+              <polygon fill-rule=""evenodd"" points=""12.524 0 7 5.524 1.476 0 0 1.476 5.524 7 0 12.524 1.476 14 7 8.476 12.524 14 14 12.524 8.476 7 14 1.476"">
+              </polygon>
+             </svg>
+            </div>
+           </button>
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              390 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              133 jobs
+             </p>
+             <p class=""mb-0"" data-v-e40d7fb8="""">
+              29602 hours worked
+             </p>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-3 grid-col-sm-1 justify-self-start nowrap"" data-qa=""jss"" data-v-e40d7fb8="""">
+      <span data-test=""up-c-popover"" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_31"" class=""up-popper-trigger"" data-v-e40d7fb8="""" role=""button"" tabindex=""0"">
+         <div class=""up-job-success job-success-width"" data-test=""up-c-job-success-score"" data-v-e40d7fb8="""">
+          <div class=""up-job-success-bar"" style=""width: 90%;"">
+           <span class=""up-job-success-text"">
+            95% 
+            Job Success
+           </span>
+          </div>
+         </div>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_31"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-e40d7fb8="""">
+             The percentage of this freelancer's jobs that resulted in a great client experience.
+             <a aria-label=""Learn more about job success"" class=""up-btn-link"" data-v-e40d7fb8="""" href=""https://support.upwork.com/hc/en-us/articles/211063558-What-is-Job-Success"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class=""grid-col-4 grid-col-sm-2 justify-self-start nowrap"" data-qa=""top-rated"" data-v-e40d7fb8="""">
+      <span data-test=""freelancer-tile-top-rated"" data-v-6fb14af4="""" data-v-e40d7fb8="""">
+       <span>
+        <div aria-describedby=""popper_32"" class=""up-popper-trigger"" data-v-6fb14af4="""" role=""button"" tabindex=""0"">
+         <span class=""up-badge-tier d-flex badge-top-rated-plus-tagline"" data-v-6fb14af4="""">
+          <div class=""status-icon d-flex up-icon"" data-test=""up-c-icon"" data-v-6fb14af4="""">
+           <svg aria-hidden=""true"" data-name=""Layer 1"" role=""img"" viewbox=""0 0 14 14"" xmlns=""http://www.w3.org/2000/svg"">
+            <polygon fill=""#f86d9c"" points=""6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0"">
+            </polygon>
+            <polygon fill=""#fba0bd"" points=""0 0 14 9.21 14 0 0 0"">
+            </polygon>
+            <polygon fill=""#f1367a"" points=""0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21"">
+            </polygon>
+           </svg>
+          </div>
+          <span class=""status-text d-flex top-rated-badge-status"" data-v-6fb14af4="""">
+           Top Rated Plus
+          </span>
+         </span>
+        </div>
+       </span>
+       <span class=""popper up-popover up-popover-appended-to-body"" data-test=""up-transition-intro"" id=""popper_32"" style=""display: none;"">
+        <div class=""size-md"">
+         <div class=""popper-wrapper"">
+          <div class=""popper-inner"">
+           <!-- -->
+           <div class=""popper-content"">
+            <div data-v-6fb14af4="""">
+             <span data-v-6fb14af4="""">
+              <strong>
+               Top Rated Plus
+              </strong>
+              talent is highly rated for work on large contracts.
+             </span>
+             <a class=""up-btn-link"" data-v-6fb14af4="""" href=""https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"" rel=""noopener noreferrer"" target=""_blank"">
+              Learn more
+             </a>
+            </div>
+           </div>
+           <div class=""arrow"" x-arrow="""">
+           </div>
+          </div>
+         </div>
+        </div>
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class=""up-line-clamp-v2-wrapper break mb-0"" data-test=""up-c-line-clamp-v2"" data-v-e40d7fb8="""" style=""--lines: 2;"">
+     <!-- -->
+     <div class=""up-line-clamp-v2 clamped"" id=""up-line-clamp-v2-17"">
+      Over the past 6 years, I had worked with numerous freelance and full time jobs ranging from WordPress Frontend Design to Project Management and Website Management and Maintenance. I usually work with (though not limited to) small businesses and individuals who needs help with having a strong online presence and build or boost their reputation and branding via their website.
+
+One of the most important aspects for me while working with my clients is communication. For me, communication is the key in a good working relationship that's why I work closely and always keep in touch with my clients. 
+
+Highly experienced with WordPress. Expert with ThemeFusion's Avada, ThemeNectar's Salient and ElegantThemes' Divi theme, as well as ThemePunch's Slider Revolution. Awesome with HTML5 and CSS3. Well experienced with Responsive Web design, Knowledgeable with WordPress PHP and SEO. Experienced with the following applications: Adobe Creative Suite (Photoshop, Illustrator, Dreamweaver), Sony Vegas Pro, Camtasia Studio, MS Office Applications (Word, Excel, Powerpoint, OneNote) 
+
+Like what you see? Looking for a talented guy that's easy to talk with? Send me a message and lets talk.
+     </div>
+     <!-- -->
+    </div>
+   </div>
+  </div>
+ </div>
+ <!-- -->
+ <!-- -->
+ <!-- -->
+ <div class=""mt-10 up-btn-row d-md-none"" data-test=""TileActionSet"" data-v-2085f2de="""">
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <!-- -->
+  <button aria-label=""Invite Francis Dale F. to Job"" class=""up-btn up-btn-primary m-0 up-btn-sm"" data-cy=""interview-button"" data-test=""InterviewInvitation"">
+   Invite to Job
+  </button>
+ </div>
+ <!-- -->
+</div>
+",https://www.upwork.com/agencies/~01ae96c12efdf935cc
